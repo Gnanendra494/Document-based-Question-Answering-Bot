@@ -17,4 +17,4 @@ This bot is built to provide answers to user questions by analyzing a collection
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/atishay-gwari/DocAI
+   git clone https://github.com/I-am-Oak/DocAI
