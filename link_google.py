@@ -7,8 +7,8 @@ from PyPDF2 import PdfReader
 
 def authenticate_google_drive():
     # Replace with your OAuth 2.0 client ID and secret
-    client_id = "934751949274-25alttv32qdan45hfcppi99dtrjg7ho9.apps.googleusercontent.com"
-    client_secret = "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"
+    client_id = oauth_id
+    client_secret = oauth_secret
 
     # Set up the OAuth 2.0 flow
     flow = InstalledAppFlow.from_client_config(
